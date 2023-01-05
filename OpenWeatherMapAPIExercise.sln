@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenWeatherMapAPIExercise", "OpenWeatherMapAPIExercise\OpenWeatherMapAPIExercise.csproj", "{D138085F-4D50-4854-8BD7-E4D6BF44D1DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenWeatherMapAPIExercise", "OpenWeatherMapAPIExercise\OpenWeatherMapAPIExercise.csproj", "{DFC0CB27-0A39-48B0-8334-298B85A9E960}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D138085F-4D50-4854-8BD7-E4D6BF44D1DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D138085F-4D50-4854-8BD7-E4D6BF44D1DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D138085F-4D50-4854-8BD7-E4D6BF44D1DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D138085F-4D50-4854-8BD7-E4D6BF44D1DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFC0CB27-0A39-48B0-8334-298B85A9E960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC0CB27-0A39-48B0-8334-298B85A9E960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC0CB27-0A39-48B0-8334-298B85A9E960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC0CB27-0A39-48B0-8334-298B85A9E960}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B3DDEE8E-B60D-4424-8460-E288871F59F1}
+		SolutionGuid = {EC09DDCB-E326-41F9-8D5D-EF471F377BC0}
 	EndGlobalSection
 EndGlobal
